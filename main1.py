@@ -35,5 +35,4 @@ str_stamp = da.text
 datetime_obj = datetime.strptime(str_stamp, '%d/%m/%Y').date()
 date = str(datetime_obj)
 
-print("this is data of gold price" + date,g1b,g1s,g2b,g2s)
-print("this is report sales")
+print("this is gold price" + date,g1b,g1s,g2b,g2s)
