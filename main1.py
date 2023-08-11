@@ -36,3 +36,4 @@ datetime_obj = datetime.strptime(str_stamp, '%d/%m/%Y').date()
 date = str(datetime_obj)
 
 print("this is gold price" + date,g1b,g1s,g2b,g2s)
+print("update for PULL")
